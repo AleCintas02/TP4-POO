@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Carrera
+comment0.text=\r\n\ La\ clase\ Carrera\ contiene\ el\ m\u00E9todo\ principal\ que\ simula\ el\ funcionamiento\ de\ un\ curso,\r\n\ inscribiendo\ alumnos,\ mostrando\ informaci\u00F3n\ sobre\ ellos\ y\ gestionando\ su\ inscripci\u00F3n.\r\n\ \r\n\ @author\ Cintas\ Alejandro\r\n\ @author\ Larroza\ Lautaro\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ El\ m\u00E9todo\ main\ es\ el\ punto\ de\ entrada\ de\ la\ aplicaci\u00F3n.\ Crea\ un\ curso\ y\ alumnos,\ inscribe\r\n\ a\ los\ alumnos\ en\ el\ curso\ y\ muestra\ informaci\u00F3n\ sobre\ la\ inscripci\u00F3n\ y\ los\ alumnos.\r\n\ \r\n\ @param\ args\ Argumentos\ de\ l\u00EDnea\ de\ comandos\ (no\ utilizados\ en\ esta\ aplicaci\u00F3n).\r\n
+numComments=2

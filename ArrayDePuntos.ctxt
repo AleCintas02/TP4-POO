@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ArrayDePuntos
+comment0.text=\r\n\ La\ clase\ ArrayDePuntos\ permite\ al\ usuario\ ingresar\ un\ conjunto\ de\ puntos\r\n\ en\ un\ plano\ bidimensional,\ mostrando\ sus\ coordenadas\ y\ calculando\ las\ distancias\ \r\n\ entre\ puntos\ consecutivos.\r\n\ \r\n\ @author\ Cintas\ Alejandro\r\n\ @author\ Larroza\ Lautaro\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ el\ programa.\ Solicita\ al\ usuario\ ingresar\ las\ \r\n\ coordenadas\ de\ 6\ puntos,\ luego\ muestra\ las\ coordenadas\ ingresadas\ y\ calcula\ \r\n\ las\ distancias\ entre\ puntos\ consecutivos.\r\n\ \r\n\ @param\ args\ Argumentos\ de\ la\ l\u00EDnea\ de\ comandos\ (no\ utilizados\ en\ este\ programa).\r\n
+comment2.params=p1\ p2
+comment2.target=double\ calcularDistancia(Punto,\ Punto)
+comment2.text=\r\n\ Calcula\ la\ distancia\ entre\ dos\ puntos\ en\ un\ plano\ bidimensional.\r\n\ \r\n\ @param\ p1\ El\ primer\ punto.\r\n\ @param\ p2\ El\ segundo\ punto.\r\n\ @return\ La\ distancia\ entre\ los\ dos\ puntos.\r\n
+numComments=3

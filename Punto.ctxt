@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\r\n\ La\ clase\ Punto\ representa\ un\ punto\ en\ un\ plano\ bidimensional\ con\ coordenadas\ X\ e\ Y.\r\n\ Proporciona\ m\u00E9todos\ para\ mover\ el\ punto,\ obtener\ sus\ coordenadas\ y\ mostrar\ su\ informaci\u00F3n.\r\n\ \r\n\ @author\ Cintas\ Alejandro\r\n\ @author\ Larroza\ Lautaro\r\n
+comment1.params=
+comment1.target=Punto()
+comment1.text=\r\n\ Constructor\ por\ defecto\ que\ inicializa\ el\ punto\ en\ el\ origen\ (X\=0,\ Y\=0).\r\n
+comment2.params=p_x\ p_y
+comment2.target=Punto(double,\ double)
+comment2.text=\r\n\ Constructor\ que\ inicializa\ el\ punto\ con\ coordenadas\ espec\u00EDficas.\r\n\ \r\n\ @param\ p_x\ La\ coordenada\ X\ del\ punto.\r\n\ @param\ p_y\ La\ coordenada\ Y\ del\ punto.\r\n
+comment3.params=p_x
+comment3.target=void\ setX(double)
+comment3.text=\r\n\ Establece\ la\ coordenada\ X\ del\ punto.\r\n\ \r\n\ @param\ p_x\ La\ nueva\ coordenada\ X.\r\n
+comment4.params=p_y
+comment4.target=void\ setY(double)
+comment4.text=\r\n\ Establece\ la\ coordenada\ Y\ del\ punto.\r\n\ \r\n\ @param\ p_y\ La\ nueva\ coordenada\ Y.\r\n
+comment5.params=
+comment5.target=double\ getX()
+comment5.text=\r\n\ Obtiene\ la\ coordenada\ X\ del\ punto.\r\n\ \r\n\ @return\ La\ coordenada\ X\ del\ punto.\r\n
+comment6.params=
+comment6.target=double\ getY()
+comment6.text=\r\n\ Obtiene\ la\ coordenada\ Y\ del\ punto.\r\n\ \r\n\ @return\ La\ coordenada\ Y\ del\ punto.\r\n
+comment7.params=p_dx\ p_dy
+comment7.target=void\ desplazar(double,\ double)
+comment7.text=\r\n\ Desplaza\ el\ punto\ en\ el\ plano\ sumando\ dx\ a\ la\ coordenada\ X\ y\ dy\ a\ la\ coordenada\ Y.\r\n\ \r\n\ @param\ p_dx\ La\ cantidad\ a\ sumar\ a\ la\ coordenada\ X.\r\n\ @param\ p_dy\ La\ cantidad\ a\ sumar\ a\ la\ coordenada\ Y.\r\n
+comment8.params=
+comment8.target=java.lang.String\ coordenadas()
+comment8.text=\r\n\ Obtiene\ una\ cadena\ que\ representa\ las\ coordenadas\ del\ punto\ en\ el\ formato\ "(X,\ Y)".\r\n\ \r\n\ @return\ Una\ cadena\ con\ el\ formato\ "(X,\ Y)".\r\n
+comment9.params=
+comment9.target=void\ mostrar()
+comment9.text=\r\n\ Muestra\ la\ informaci\u00F3n\ del\ punto\ en\ la\ consola\ en\ el\ formato\ "Punto.\ X\:\ X,\ Y\:\ Y".\r\n
+numComments=10

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ La\ clase\ Localidad\ representa\ una\ localidad\ con\ un\ nombre\ y\ una\ provincia.\r\n\ Proporciona\ m\u00E9todos\ para\ establecer\ y\ obtener\ estos\ atributos,\ y\ para\ mostrar\ la\ informaci\u00F3n\ de\ la\ localidad.\r\n\ \r\n\ @author\ Cintas\ Alejandro\r\n\ @author\ Larroza\ Lautaro\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Localidad.\r\n\ \r\n\ @param\ p_nombre\ \ \ \ Nombre\ de\ la\ localidad.\r\n\ @param\ p_provincia\ Provincia\ en\ la\ que\ se\ encuentra\ la\ localidad.\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=\r\n\ Obtiene\ el\ nombre\ de\ la\ localidad.\r\n\ \r\n\ @return\ Nombre\ de\ la\ localidad.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment5.text=\r\n\ Obtiene\ la\ provincia\ en\ la\ que\ se\ encuentra\ la\ localidad.\r\n\ \r\n\ @return\ Provincia\ de\ la\ localidad.\r\n
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=\r\n\ Muestra\ la\ informaci\u00F3n\ de\ la\ localidad\ en\ formato\ de\ cadena.\r\n\ \r\n\ @return\ Cadena\ con\ el\ nombre\ y\ la\ provincia\ de\ la\ localidad.\r\n
+numComments=7

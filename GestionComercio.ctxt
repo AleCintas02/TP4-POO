@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GestionComercio
+comment0.text=\r\n\ La\ clase\ GestionComercio\ simula\ la\ gesti\u00F3n\ de\ empleados\ dentro\ de\ un\ comercio.\r\n\ Instancia\ empleados\ y\ un\ comercio,\ y\ agrega\ empleados\ al\ comercio.\r\n\ Finalmente,\ muestra\ la\ n\u00F3mina\ de\ empleados\ del\ comercio.\r\n\ \r\n\ @author\ Cintas\ Alejandro\r\n\ @author\ Larroza\ Lautaro\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ la\ simulaci\u00F3n\ de\ la\ gesti\u00F3n\ del\ comercio.\r\n\ \r\n\ @param\ args\ Argumentos\ pasados\ por\ l\u00EDnea\ de\ comandos\ (no\ utilizados).\r\n
+numComments=2
